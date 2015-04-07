@@ -10,7 +10,7 @@
 
     <groupId>ph.samson.maven</groupId>
     <artifactId>checksum-enforcer-rule</artifactId>
-    <version>0.0.1</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Checksum Enforcer</name>
@@ -20,7 +20,7 @@
         <connection>scm:git:https://github.com/esamson/checksum-enforcer-rule.git</connection>
         <developerConnection>scm:git:git@github.com:esamson/checksum-enforcer-rule.git</developerConnection>
         <url>https://github.com/esamson/checksum-enforcer-rule</url>
-        <tag>v0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
