@@ -1,3 +1,8 @@
+# Retired
+
+As of the 3.0.0 release, this is now part of Maven Enforcer built-in rules as
+[requireFileChecksum][2]. Use that, not this.
+
 # Maven Enforcer Checksum Rule
 
 This is a custom rule for the [maven-enforcer-plugin][1] to verify the checksum
@@ -48,3 +53,4 @@ algorithm. Possible values are:
 * "sha512"
 
 [1]: https://maven.apache.org/enforcer/maven-enforcer-plugin/
+[2]: https://maven.apache.org/enforcer/enforcer-rules/requireFileChecksum.html
